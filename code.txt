@@ -1,0 +1,4 @@
+static class Program{static void Main() { 
+ int a = 7/2;
+System.Console.WriteLine(  a);
+System.Console.ReadLine();}}

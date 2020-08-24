@@ -1,0 +1,3 @@
+
+error CS0016: In die Ausgabedatei 'c:\Users\raber\source\repos\HTL++\HTL++\bin\Debug\Program.exe' konnte nicht geschrieben werden -- 'Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird. '
+c:\Users\raber\AppData\Local\Temp\1t531jks.0.cs(3,9) : error CS0103: Der Name 'b' ist im aktuellen Kontext nicht vorhanden.
